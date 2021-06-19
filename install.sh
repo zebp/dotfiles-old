@@ -1,8 +1,5 @@
 #/bin/bash
 
-printf "\n🚀 Installing pre-compiled Rust programs\n"
-mv ./binaries/* /usr/local/bin
-
 printf "\n🚀 Installing fzf\n"
 
 # Clone fzf

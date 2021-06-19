@@ -33,6 +33,7 @@ function spectrum_bls() {
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/.yarn/bin/:$PATH
 export PATH=$PATH:~/.zig/
+export PATH=$PATH:~/.dotfiles/binaries/
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
