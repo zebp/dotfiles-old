@@ -27,5 +27,3 @@ ln -sf "$(pwd)/zsh/.zshrc" "${HOME}/.zshrc"
 ln -sf "$(pwd)/zsh/zeb.zsh-theme" "${HOME}/.oh-my-zsh/custom/themes/"
 
 printf "\n🚀 Done!\n"
-
-zsh
